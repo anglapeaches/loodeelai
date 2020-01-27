@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shaiteeyo.coveringdistance.com/sitemap.xml
